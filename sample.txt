@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>home page</title>
+</head>
+<body>
+<center>
+<h3> HELLO HII </h3>
+<p>Thanks for choosing devops course</p>
+</body>
+</html>
